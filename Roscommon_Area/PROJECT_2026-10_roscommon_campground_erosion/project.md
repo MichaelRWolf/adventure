@@ -21,12 +21,12 @@ state-land site on The Cut, south of Roscommon, MI.
 
 State of Michigan, DNR. Exact division unconfirmed -- verify on the DNR Mi State Forest Map.
 
-| Role                                | Contact                                                          |
-|-------------------------------------|------------------------------------------------------------------|
-| Primary: Roscommon Forest Mgmt Unit | Jason Lewicki, Unit Manager, 989-745-5870, lewickij@michigan.gov |
-| Field office                        | 8717 N Roscommon Rd, Roscommon MI 48653                          |
-| Fallback (if state park land)       | South Higgins Lake State Park, 989-821-6374                      |
-| General forestry                    | DNR-Forestry@michigan.gov, 517-284-5900                          |
+| Role                                | Contact                                                                                                   |
+|-------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| Primary: Roscommon Forest Mgmt Unit | Jason Lewicki, Unit Manager, 989-745-5870, <lewickij@michigan.gov>                                        |
+| Field office                        | 989-275-5151, 8717 N Roscommon Rd, Roscommon MI 48653                                                     |
+| Fallback (if state park land)       | South Higgins Lake State Park: Mitchell Babcock, park supervisor, 989-821-6374 ext. 2; main office ext. 1 |
+| General forestry                    | <DNR-Forestry@michigan.gov>, 517-284-5900                                                                 |
 
 ## Proposed approach (pending DNR response)
 
@@ -46,3 +46,4 @@ State of Michigan, DNR. Exact division unconfirmed -- verify on the DNR Mi State
 ## Status
 
 - 2026-10-20: Letter drafted (`dnr_letter.txt`); send Monday
+- 2026-10-20 4:45 PM: Called DNR. They suggested calling South Higgins Lake State Park. Left message for park supervisor Mitchell Babcock at 989-821-6374 ext. 2. Called ext. 1 to reach the main office.
