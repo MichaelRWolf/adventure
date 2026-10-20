@@ -38,6 +38,11 @@ Michael Wolf
 
 P.S.  Thanks for all you (and the other DNR staff) do to make nature a resource for everyone!  It makes a huge difference to the quality of life here.
 
+Location:
+
+  Map:      https://www.google.com/maps/search/?api=1&query=44.4283167,-84.6535861
+  Lat/Long: 44.4283167, -84.6535861
+
 Attachments:
 
 Five photos, reduced for email to 1600 pixels on the long edge. Total size is 5.6 MB, down from 30.8 MB for the full-size originals, which are available on request. GPS location data is retained in each photo, so the site can be located directly from the photos.
@@ -49,8 +54,3 @@ Five photos, reduced for email to 1600 pixels on the long edge. Total size is 5.
   - IMG_7478.jpeg: Sandy road surface with runoff channel from the campsite. Dark, damp sand and a shallow depression show the flow path toward the road.
 
 Also attached: descriptions.md, a plain-language description of each photo and how it relates to the erosion. It was written with the help of Claude, an AI assistant, and reviewed by me.
-
-Location:
-
-  Map:      https://www.google.com/maps/search/?api=1&query=44.4283167,-84.6535861
-  Lat/Long: 44.4283167, -84.6535861
