@@ -45,4 +45,4 @@ State of Michigan, DNR. Exact division unconfirmed -- verify on the DNR Mi State
 
 ## Status
 
-- 2026-10-20: Letter drafted (`dnr_letter.md`); send Monday
+- 2026-10-20: Letter drafted (`dnr_letter.txt`); send Monday
