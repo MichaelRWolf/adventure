@@ -47,3 +47,4 @@ State of Michigan, DNR. Exact division unconfirmed -- verify on the DNR Mi State
 
 - 2026-10-20: Letter drafted (`dnr_letter.txt`); send Monday
 - 2026-10-20 4:45 PM: Called DNR. They suggested calling South Higgins Lake State Park. Left message for park supervisor Mitchell Babcock at 989-821-6374 ext. 2. Called ext. 1 to reach the main office.
+- 2026-10-21 Jason replied to my email.  I called him.  He may come out tomorrow (Thursday).  I replied to his email.
