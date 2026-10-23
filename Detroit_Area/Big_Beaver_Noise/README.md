@@ -6,7 +6,7 @@ Hub for the rooftop-equipment noise problem. Call script in [[call_script]]. Nei
 
 - Continuous mechanical noise from rooftop units at 999 W. Big Beaver Rd (Troy, MI 48084).
 - Sounds like a lawn mower, leaf blower, or helicopter from above.
-- Audible well beyond the site: apartment courtyards and residential back yards and streets within about a mile.
+- Audible well beyond the site: apartment courtyards and residential back yards and streets many blocks away.
 - Not noticeable on Big Beaver or Crooks, where traffic masks it.
 - Reported as ongoing for about 3 years.
 - Cranes on site (2026-10-23); operators say the work is lifting, not the roof units. Security did not know of the crane.
@@ -51,6 +51,17 @@ Caveat: the cached copy has 2014-era metadata and "Rev." dates. Confirm the curr
 
 - Chapter 88 uses a reasonable-neighbor standard ("comfort or repose," "vicinity") rather than a fixed decibel limit. That is the working test here.
 - Michigan common-law private nuisance uses the same idea: whether the interference is substantial and unreasonable to a person of ordinary sensibilities (Restatement (Second) of Torts §821F). Stated from general knowledge; not verified in this research.
+
+## Michigan law: noise and light (research 2026-10-23)
+
+Not legal advice. Check current text before relying on any of this.
+
+- **Noise is a private nuisance.** Adkins v. Thomas Solvent Co. (Mich. 1992) requires significant, unreasonable interference, and mere annoyance isn't enough. Source: [Justia](https://law.justia.com/cases/michigan/supreme-court/1992/88897-5.html).
+- **Ordinance violation is not required.** A 2009 Michigan Court of Appeals decision let a noise-based nuisance claim proceed without an ordinance violation. Source: [michbar.org](http://www.michbar.org/opinions/appeals/2009/041609/42435.pdf). Confirm the case name and citation.
+- **Private nuisance can be enjoined in circuit court.** Source: [Michigan Bar Environmental Law deskbook, ch. 13](https://connect.michbar.org/envlaw/reports/deskbook/chapter13).
+- **Trespass is different.** Most U.S. courts treat noise as nuisance, not trespass. California's high court held noise alone isn't trespass. A Michigan trial-level instruction on Adams v. Cleveland-Cliffs described noise as an intangible trespass, but that doesn't settle appellate law.
+- **Light is mostly local.** No statewide Michigan light-trespass statute was found. Local ordinances set limits. Ann Arbor: 0.1 foot-candles at residential lot lines. An unpublished April 2024 Michigan Court of Appeals decision (Traverse City) involved a nuisance-abatement claim under that city's lighting ordinance. No link to the opinion was confirmed in this research; find it on the Michigan Court of Appeals site before citing.
+- **Pending 2026 case:** residents near a data center in Dowagiac sued over noise under private nuisance. Pleading stage, not a ruling.
 
 ## Precedent (unverified, from user)
 
