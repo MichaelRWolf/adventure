@@ -1,6 +1,6 @@
 # Supporting Screed — Noise and Light as Trespass
 
-Hub: [[README]]. Scripts: [[call_script]] and [[flyer]]. This file holds the values and argument behind the project. It is not for calls, email, or posting. The scripts use only the facts and requests drawn from it.
+Background for [[README]]. Scripts in [[scripts]] and the poster in [[poster]] use only the facts and requests drawn from this file. This file is not for calls, email, or posting.
 
 ## The principle
 
@@ -51,4 +51,4 @@ People have a right to control what enters their home and their quiet time. Unwa
 ## Open points
 
 - Light: this project hasn't yet looked at light at 999 W. Big Beaver. Confirm whether the rooftop or site lighting is an issue before raising it.
-- Michigan law on light is mostly local ordinance. See [[README]].
+- Michigan law on light is mostly local ordinance. See [[law]].

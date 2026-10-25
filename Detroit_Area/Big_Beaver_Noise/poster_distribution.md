@@ -1,6 +1,12 @@
 # Poster Distribution — Apartment Buildings Near 999 W. Big Beaver
 
-Hub: [[README]]. Poster: [[poster]].
+Hub: [[README]]. Poster: [[poster]]. Calls: [[calls]].
+
+## Posting steps (Saturday)
+
+1. Fill in your name and contact in [[poster]].
+2. Confirm each office's rules for flyers before posting.
+3. Post at the buildings below. Record the locations and dates in the Log in [[calls]].
 
 Distances are straight-line from 999 W. Big Beaver (42.5607935, -83.1661995), calculated from OpenStreetMap geocodes. Walking or driving distance will be longer.
 
@@ -34,9 +40,8 @@ Coverage is partial. These are the complexes the searches turned up, not a full 
 - Amber Town Center Townhomes & Lofts, 50 Town Center Dr, Troy, MI 48084, 0.95 mi. Phone 586-991-3388. Rental office: 380 N. Crooks Rd, Clawson.
 - The Phoenix at Troy Crossing, 2151 E. Big Beaver Rd, Troy, MI 48083, 3.14 mi.
 
-## Next steps
+## Open items
 
-1. Call each phone number to confirm it reaches a leasing office, not a call center.
-2. Ask each office where to post flyers and whether they require approval.
-3. Check the rental office address for each building. Many are off-site.
-4. Look for more complexes in the 1/2 and 3/4 mile bands along Big Beaver, Coolidge, and Crooks.
+- Confirm each phone reaches a leasing office, not a call center. Ask each office where to post flyers and whether they need approval.
+- Rental-office addresses for most buildings are not found. Many are off-site.
+- Look for more complexes in the 1/2 and 3/4 mile bands along Big Beaver, Coolidge, and Crooks.

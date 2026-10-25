@@ -1,4 +1,3 @@
-
 # Heard enough from 999 W. Big Beaver?
 
 ![Red sound waves from rooftop units spread across a neighborhood](images/red_waves_over_the_neighborhood.png)

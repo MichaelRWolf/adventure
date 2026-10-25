@@ -1,6 +1,6 @@
-# Poster Art
+# Poster Art Prompt
 
-Use for the top of `poster.md`. Generate, save as `poster_art.png` (or similar), then add the link here and in `poster.md`.
+Use for the top of [[poster]]. Generate, save as `images/poster_art.png` (or similar), then update the link in [[poster]].
 
 ## Recommended tool
 
@@ -26,7 +26,3 @@ Mood: calm home under siege. Readable at small size, works in black and white fo
 
 - **Simpler:** remove the courtyard and the parked car. Keep the building, the waves, and the person.
 - **Black and white:** replace the palette line with "monochrome, black ink on white, bold shapes, no gray gradients."
-
-## Link
-
-- Image: [to add after generation]
