@@ -10,8 +10,9 @@ Hub: [[README]]. Background and values: [[supporting_screed]] (not for calls or 
   1. A.F. Jonna Development: (248) 593-6200. Company site afjonna.com.
   2. Broker, leasing contact: Garrett Keais, +1 248 358 6112.
   3. Troy Police non-emergency (noise): 248-524-3477.
-  4. Troy Code Enforcement: 248.524.3364.
-  5. Property manager on site: ask security.
+  4. Troy Code Enforcement: 248.524.3364. Hours 8:00 a.m.–4:30 p.m. (per your call; verify on troymi.gov).
+  5. Troy Planning: <planning@troymi.gov> (email, from you).
+  6. Property manager on site: ask security.
 
 ## Tone rules
 
@@ -100,12 +101,38 @@ Subject: Rooftop equipment noise at 999 W. Big Beaver Rd
 > [business, if you want to name it]
 > [phone]
 
+## Email: Troy Planning (<planning@troymi.gov>)
+
+Send after the owner call, or Monday. Planning covers zoning and site-plan conditions, including rooftop equipment screening and noise.
+
+Subject: Rooftop mechanical equipment noise, 999 W. Big Beaver Rd
+
+> Hello,
+>
+> I'm writing about the rooftop mechanical equipment at 999 W. Big Beaver Rd, Troy, MI 48084. I'm a regular client at a business nearby and walk the residential streets around Big Beaver before and after my appointments. For about three years, a constant mechanical noise from the roof has carried many blocks into those residential areas. It sounds like a lawn mower or leaf blower running continuously.
+>
+> I'd like to understand the rules and records for this equipment:
+>
+> 1. Is there a site plan or approval on file for the rooftop units, and does it include noise or screening conditions?
+> 2. What noise or mechanical-equipment standards apply to this property under the Zoning Ordinance?
+> 3. Who should I contact to request a review or inspection of the equipment?
+>
+> I'd appreciate a reply by [date], or a call at [phone].
+>
+> Thank you,
+> [name]
+> [business, if you want to name it]
+> [phone]
+
 ## Troy Police / Code Enforcement complaint
 
 > I'd like to report continuous rooftop mechanical noise at 999 W. Big Beaver Rd, Troy, MI 48084. It is audible on residential streets many blocks away and has been going on for about three years. Please log this and give me a case or complaint number. I'm asking for review under Troy City Code Chapter 88, Sec. 9.1 (public nuisance: anything that annoys or disturbs the comfort or repose of the public). This is constant mechanical noise, not construction. There is also a crane lift on site today, which is separate from the ongoing noise.
 
 ## Call log
 
-| Date | Time | Who | Method | What was said | Next step |
-| ---- | ---- | --- | ------ | ------------- | --------- |
-|      |      |     |        |               |           |
+| Date       | Time      | Who                                 | Method | What was said                            | Next step                |
+| ---------- | --------- | ----------------------------------- | ------ | ---------------------------------------- | ------------------------ |
+| 2026-10-23 | 16:14 EDT | A.F. Jonna, ext. 0                  | Phone  | Voicemail left                           | Await callback           |
+| 2026-10-23 | 16:17 EDT | A.F. Jonna, ext. 108                | Phone  | Voicemail; msg named Avery Schmitt       | Await callback           |
+| 2026-10-23 | 16:40 EDT | Troy Code Enforcement, 248.524.3364 | Phone  | Missed; hours closed 4:30. Left message. | Callback; email planning |
+|            |           |                                     |        |                                          |                          |

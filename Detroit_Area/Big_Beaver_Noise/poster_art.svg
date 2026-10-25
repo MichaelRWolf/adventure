@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+  <title>Rooftop noise reaching a quiet home</title>
+  <rect width="800" height="400" fill="#f8fafc"/>
+  <!-- ground -->
+  <rect x="0" y="340" width="800" height="60" fill="#e2e8f0"/>
+  <!-- source building -->
+  <rect x="60" y="160" width="180" height="180" fill="#475569"/>
+  <g fill="#94a3b8">
+    <rect x="85" y="185" width="28" height="28"/>
+    <rect x="135" y="185" width="28" height="28"/>
+    <rect x="185" y="185" width="28" height="28"/>
+    <rect x="85" y="240" width="28" height="28"/>
+    <rect x="135" y="240" width="28" height="28"/>
+    <rect x="185" y="240" width="28" height="28"/>
+    <rect x="85" y="295" width="28" height="28"/>
+    <rect x="135" y="295" width="28" height="28"/>
+    <rect x="185" y="295" width="28" height="28"/>
+  </g>
+  <!-- rooftop units -->
+  <rect x="90" y="110" width="60" height="50" fill="#334155"/>
+  <rect x="165" y="120" width="60" height="40" fill="#334155"/>
+  <!-- noise waves -->
+  <g fill="none" stroke="#ef4444" stroke-width="6" stroke-linecap="round">
+    <path d="M271.2 113.8 A30 30 0 0 1 271.2 156.2"/>
+    <path d="M288.9 96.1 A55 55 0 0 1 288.9 173.9"/>
+    <path d="M306.6 78.4 A80 80 0 0 1 306.6 191.6"/>
+  </g>
+  <g fill="none" stroke="#ef4444" stroke-width="6" stroke-linecap="round" opacity="0.45">
+    <path d="M327.8 57.2 A110 110 0 0 1 327.8 212.8"/>
+    <path d="M349 36 A140 140 0 0 1 349 234"/>
+  </g>
+  <!-- quiet house -->
+  <polygon points="520,200 620,140 720,200" fill="#0f766e"/>
+  <rect x="530" y="200" width="180" height="140" fill="#fef3c7"/>
+  <rect x="570" y="230" width="36" height="40" fill="#fde68a" stroke="#92400e" stroke-width="3"/>
+  <rect x="640" y="230" width="36" height="40" fill="#fde68a" stroke="#92400e" stroke-width="3"/>
+  <rect x="603" y="280" width="34" height="60" fill="#92400e"/>
+  <!-- person with hands over ears -->
+  <circle cx="745" cy="215" r="22" fill="#1e293b"/>
+  <rect x="730" y="240" width="30" height="100" rx="12" fill="#1e293b"/>
+  <path d="M735 256 L717 214" fill="none" stroke="#1e293b" stroke-width="11" stroke-linecap="round"/>
+  <path d="M755 256 L773 214" fill="none" stroke="#1e293b" stroke-width="11" stroke-linecap="round"/>
+  <circle cx="716" cy="212" r="10" fill="#1e293b"/>
+  <circle cx="774" cy="212" r="10" fill="#1e293b"/>
+</svg>
