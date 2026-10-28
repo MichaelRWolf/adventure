@@ -36,11 +36,12 @@ Parallel: 1–4.
 
 ## Log
 
-Times are from the system clock unless noted. Correct any time that's wrong.
+Newest entry on top: add new rows directly under the header.
 
 | Date       | Time      | Who                                 | Method | What was said                            | Next step                |
 | ---------- | --------- | ----------------------------------- | ------ | ---------------------------------------- | ------------------------ |
-| 2026-10-23 | 16:14 EDT | A.F. Jonna, ext. 0                  | Phone  | Voicemail left                           | Await callback           |
-| 2026-10-23 | 16:17 EDT | A.F. Jonna, ext. 108                | Phone  | Voicemail; msg named Avery Schmitt       | Await callback           |
+| 2026-10-28 | 15:59 EDT | Troy Code Enforcement, Jackie       | Phone  | Spoke with Jackie (from your report)     | Send to Dax Clarke       |
 | 2026-10-23 | 16:40 EDT | Troy Code Enforcement, 248.524.3364 | Phone  | Missed; hours closed 4:30. Left message. | Callback; email planning |
+| 2026-10-23 | 16:17 EDT | A.F. Jonna, ext. 108                | Phone  | Voicemail; msg named Avery Schmitt       | Await callback           |
+| 2026-10-23 | 16:14 EDT | A.F. Jonna, ext. 0                  | Phone  | Voicemail left                           | Await callback           |
 |            |           |                                     |        |                                          |                          |
