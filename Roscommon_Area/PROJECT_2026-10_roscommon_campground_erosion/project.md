@@ -58,4 +58,4 @@ State of Michigan, DNR Forestry Division. South Higgins Lake State Park referred
 - 2026-10-28: Checked the runoff source. No other place for the water to drain. Plan changed from diverting water to designing the outlet (broad hardened dip, stepped drop, headcut sill).
 - 2026-10-28: In-field proposal drafted (`jason_proposal.md`). Terminology fixed in `terminology.md`. Decision: no signs; design cues and physical constraints instead.
 - 2026-10-28: Proposal now lists Michael Wolf and Claude as co-authors with contact info. Removed "is this your land" (Jason knows); replaced with "coordinate with the appropriate organizations." State park sent me to DNR forestry.
-- 2026-10-28: No longer nearby. Withdrew the offer of volunteer labor. Proposal is now an offering: starting point, critical review and ideas for Jason's crew to build a professional work plan.
+- 2026-10-28: No longer in the area, but happy to do what I can (clarify the proposal, add pictures, provide other formats). Proposal is now an offering: starting point, critical review and ideas for Jason's crew to build a professional work plan.

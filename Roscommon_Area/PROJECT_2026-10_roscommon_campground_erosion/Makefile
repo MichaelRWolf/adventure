@@ -5,7 +5,7 @@
 #   make images-all re-resize every original (use after changing MAX_PX or QUALITY)
 #   make info       list each web-quality image with its pixels and orientation
 #   make pdf        regenerate PDFs from the Markdown sources
-#   make clean      remove build/ and the PDFs
+#   make clean      remove generated files: build/, the PDFs and images/web_quality/
 
 # Email image recipe: web resolution, 8-bit sRGB JPEG, never enlarged.
 MAX_PX  := 1200
@@ -65,4 +65,4 @@ $(PDFS): %.pdf: $(BUILD)/%.html
 	@test -s $@ || { echo "PDF build failed: $@"; exit 1; }
 
 clean:
-	rm -rf $(BUILD) $(PDFS)
+	rm -rf $(BUILD) $(PDFS) $(OUT_DIR)

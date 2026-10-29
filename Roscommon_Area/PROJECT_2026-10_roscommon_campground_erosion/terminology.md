@@ -76,7 +76,7 @@ Use these names. They are hazards, not features.
 |-------------------|-------------------------------------------------|--------------------------------------|
 | Jason's title     | Forest Manager                                  | Unit Manager, the boss               |
 | Jason's team      | Jason, your crew                                | the guys, staff (in proposal)        |
-| Me                | co-author, volunteer (ideas only)               | expert; "amateur" only once, lightly |
+| Me                | volunteer, co-author                            | expert; "amateur" only once, lightly |
 | The AI            | Claude (an AI assistant), co-author             | the bot, the AI (unqualified)        |
 | Land ownership    | "coordinate with the appropriate organizations" | asking Jason who owns it             |
 | My working plan   | project plan (`project.md`)                     | "the proposal"                       |

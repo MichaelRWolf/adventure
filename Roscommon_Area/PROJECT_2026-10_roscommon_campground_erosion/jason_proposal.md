@@ -21,7 +21,7 @@ Thank you for stopping by the site on Thursday, October 22. The summary below fi
 - **Constraint:** I walked the contributing area. The water has nowhere else to go, so diversion (water bars, lead-outs) is off the table. The plan designs the outlet instead.
 - **Approach, in four layers along the flow path:** (1) a hardened broad dip that spreads the flow, (2) a hard sill that pins the headcut, (3) 3-5 low brush check dams that step the water down, (4) a clear, drivable route that keeps traffic on the tread.
 - **Main risks:** flanking, undercutting, plunge-pool scour, and leakage through clean sand, which will not seal the way silt does.
-- **Offering:** use this as a starting point, a critical review, or ideas to bounce off as you create a professional work plan. I am no longer nearby, so I am withdrawing my offer of volunteer labor. Eat the fish, spit out the bones.
+- **Offering:** use this as a starting point, a critical review, or ideas to bounce off as you create a professional work plan. Eat the fish, spit out the bones. I am no longer in the area, but I am happy to do what I can: clarifying the proposal, adding pictures, or providing it in a different format.
 
 Photos with captions are in Appendix A.
 
