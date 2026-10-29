@@ -1,11 +1,14 @@
 # Email-ready images and PDFs for the erosion site proposal.
 #
+# Everything generated lives under build/, so `rm -rf build` is always safe.
+# Originals stay in images/ and are never touched.
+#
 #   make            build images and PDFs
-#   make images     resize new or changed originals in images/ into images/web_quality/
+#   make images     resize new or changed originals in images/ into build/web_quality/
 #   make images-all re-resize every original (use after changing MAX_PX or QUALITY)
 #   make info       list each web-quality image with its pixels and orientation
 #   make pdf        regenerate PDFs from the Markdown sources
-#   make clean      remove generated files: build/, the PDFs and images/web_quality/
+#   make clean      remove build/ (all generated files)
 
 # Email image recipe: web resolution, 8-bit sRGB JPEG, never enlarged.
 MAX_PX  := 1200
@@ -16,12 +19,12 @@ CSS     := proposal.css
 BUILD   := build
 
 SRC_DIR := images
-OUT_DIR := images/web_quality
+OUT_DIR := $(BUILD)/web_quality
 
 SOURCES    := $(wildcard $(SRC_DIR)/*.jpeg $(SRC_DIR)/*.jpg $(SRC_DIR)/*.png)
 EMAIL_IMGS := $(patsubst $(SRC_DIR)/%,$(OUT_DIR)/%,$(addsuffix .jpeg,$(basename $(SOURCES))))
 
-PDFS := roscommon_campground_erosion_proposal.pdf
+PDFS := $(BUILD)/roscommon_campground_erosion_proposal.pdf
 
 .PHONY: all images images-all info pdf clean
 
@@ -60,9 +63,9 @@ $(BUILD)/%.html: %.md $(CSS) $(EMAIL_IMGS)
 	@mkdir -p $(BUILD)
 	pandoc $< -f gfm -s --embed-resources --metadata pagetitle="$*" -c $(CSS) --resource-path=. -o $@
 
-$(PDFS): %.pdf: $(BUILD)/%.html
+$(BUILD)/%.pdf: $(BUILD)/%.html
 	"$(CHROME)" --headless --disable-gpu --no-pdf-header-footer --print-to-pdf=$@ "file://$(CURDIR)/$<" >/dev/null 2>&1
 	@test -s $@ || { echo "PDF build failed: $@"; exit 1; }
 
 clean:
-	rm -rf $(BUILD) $(PDFS) $(OUT_DIR)
+	rm -rf $(BUILD)

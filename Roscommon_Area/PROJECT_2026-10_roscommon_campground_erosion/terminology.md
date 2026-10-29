@@ -96,7 +96,7 @@ Orientation comes from pixel dimensions (wider than tall is landscape), never fr
 | IMG_7478.jpeg     | 1200 x 900           | landscape   |
 | location_map.jpeg | 996 x 938            | landscape   |
 
-Folders: `images/` holds originals, `images/web_quality/` holds the 1200 px, JPEG 70 copies made by `make images`.
+Folders: `images/` holds originals, `build/web_quality/` holds the 1200 px, JPEG 70 copies made by `make images`. Everything under `build/` is generated and safe to delete (`make clean`).
 
 ## Signs
 
