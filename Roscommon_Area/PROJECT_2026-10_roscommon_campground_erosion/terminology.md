@@ -1,6 +1,6 @@
 # Terminology
 
-Approved and discouraged terms for this project. Applies to `project.md` (my working plan) and `jason_proposal.md` (the in-field proposal for Jason and his crew). `dnr_letter.txt` and `images/descriptions.md` were already sent, so they are left as written.
+Approved and discouraged terms for this project. Applies to `project.md` (my working plan) and `roscommon_campground_erosion_proposal.md` (the in-field proposal for Jason and his crew). `dnr_letter.txt` and `images/descriptions.md` were already sent, so they are left as written.
 
 ## Canonical Location
 

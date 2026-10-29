@@ -21,7 +21,7 @@ OUT_DIR := images/web_quality
 SOURCES    := $(wildcard $(SRC_DIR)/*.jpeg $(SRC_DIR)/*.jpg $(SRC_DIR)/*.png)
 EMAIL_IMGS := $(patsubst $(SRC_DIR)/%,$(OUT_DIR)/%,$(addsuffix .jpeg,$(basename $(SOURCES))))
 
-PDFS := jason_proposal.pdf
+PDFS := roscommon_campground_erosion_proposal.pdf
 
 .PHONY: all images images-all info pdf clean
 
