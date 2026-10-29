@@ -1,0 +1,10 @@
+@page { size: Letter; margin: 0.8in; }
+body { font-family: -apple-system, "Helvetica Neue", Arial, sans-serif; font-size: 10.5pt; line-height: 1.4; color: #222; max-width: none; margin: 0; padding: 0; }
+h1 { font-size: 20pt; margin: 0 0 0.4em; border-bottom: 2px solid #3a6b35; padding-bottom: 0.2em; }
+h2 { font-size: 14pt; color: #3a6b35; margin: 1.4em 0 0.4em; page-break-after: avoid; }
+h3 { font-size: 11.5pt; margin: 1em 0 0.3em; page-break-after: avoid; }
+li { margin: 0.15em 0; }
+a { color: #1a5fb4; }
+img { max-width: 100%; max-height: 3.3in; display: block; margin: 0.6em 0; }
+#appendix-a-site-photos { page-break-before: always; }
+h3, img { page-break-inside: avoid; }

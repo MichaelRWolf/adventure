@@ -1,10 +1,15 @@
-# Gully at The Cut: Outlet Plan for the Everett Road Two-Track
+# Erosion Site at The Cut: Outlet Plan for the Everett Road Two-Track
 
-Subject line for email: Gully at The Cut (end of Everett Rd) -- outlet plan for your review
+**To:** Jason Lewicki, Forest Manager, Roscommon Forest Management Unit, Michigan DNR\
+**Authors:** Michael Wolf (volunteer) and Claude (an AI assistant)\
+**Contact:** Michael Wolf, <MichaelRWolf@att.net>, 206-679-7941\
+**Date:** October 28, 2026\
+**Subject:** Gully at The Cut (end of Everett Rd) -- outlet plan for your review\
+**Address:** South terminus of Everett Road, Gerrish Township, Roscommon County, MI 48653
 
-To: Jason Lewicki, Forest Manager, Roscommon Forest Management Unit, Michigan DNR
+In this memo, "I" is Michael.
 
-Co-authors: Michael Wolf (volunteer) and Claude (an AI assistant). In this document, "I" is Michael.
+---
 
 Jason,
 
@@ -12,11 +17,11 @@ Thank you for stopping by the site on Thursday, October 22. The summary below fi
 
 ## Summary
 
-- **Problem:** A sand gully at the end of the access two-track carries runoff from the tread and the campsites straight into The Cut. Headcuts have reached the tread, and vehicles are beginning to detour uphill, which spreads the damage.
+- **Erosion site:** A sand gully at the end of the access two-track carries runoff from the tread and the campsites into The Cut. Headcuts have reached the tread, and vehicles are beginning to detour uphill, which is a chance to fix it before the damage spreads.
 - **Constraint:** I walked the contributing area. The water has nowhere else to go, so diversion (water bars, lead-outs) is off the table. The plan designs the outlet instead.
 - **Approach, in four layers along the flow path:** (1) a hardened broad dip that spreads the flow, (2) a hard sill that pins the headcut, (3) 3-5 low brush check dams that step the water down, (4) a clear, drivable route that keeps traffic on the tread.
 - **Main risks:** flanking, undercutting, plunge-pool scour, and leakage through clean sand, which will not seal the way silt does.
-- **Ask:** correct what we got wrong, coordinate with the appropriate organizations, and tell me whether you would support volunteer labor under your crew's direction.
+- **Offering:** use this as a starting point, a critical review, or ideas to bounce off as you create a professional work plan. I am no longer nearby, so I am withdrawing my offer of volunteer labor. Eat the fish, spit out the bones.
 
 Photos with captions are in Appendix A.
 
@@ -30,6 +35,11 @@ South terminus of Everett Road, Gerrish Township.
 - Map by coordinates: <https://www.google.com/maps?q=44.4283167,-84.6535861>
 - Map by Plus Code: <https://www.google.com/maps?q=86PQC8HW%2B8H>
 - Sanity check: the pin should sit on The Cut, south of Roscommon, at the south end of Everett Road. If a typed code lands elsewhere, use the links instead.
+
+<!-- markdownlint-disable-next-line MD033 -->
+<img src="images/web_quality/location_map.jpeg" alt="Satellite map of the erosion site: pin at the south end of Everett Rd, above The Cut" width="40%">
+
+Caption: Satellite view (Google Maps). The pin marks the erosion site. The two-track runs down from Everett Rd at the upper left, and the bare sand at the pin is the gully draining toward The Cut (labeled "Cut River" on the map).
 
 ## Brief Site History
 
@@ -112,13 +122,12 @@ In short: keep the sand on the two-track and out of The Cut.
 - [ ] Repair flanking, undercutting and scour first, then clear sediment
 - [ ] Re-photograph from the fixed points each season
 
-## Questions for You
+## Questions for Your Crew (Optional)
 
-1. Which organizations should I coordinate with, and in what order?
-2. Would you support a volunteer-built version of Phases 1-3, with your crew's direction?
-3. Which approvals apply, if any?
-4. Is there a state or unit standard for check dams, hardened dips or low-water crossings that we should follow (stone size, fabric, spacing)?
-5. What did we get wrong? Please mark up anything that would not survive real sand and real rain.
+1. Which organizations need to be coordinated with, and in what order?
+2. Which approvals apply, if any?
+3. Is there a state or unit standard for check dams, hardened dips or low-water crossings that we should follow (stone size, fabric, spacing)?
+4. What did we get wrong? Please mark up anything that would not survive real sand and real rain.
 
 ## How This Was Made, and What It Could Do for Your Crew
 
@@ -141,30 +150,30 @@ All five photos were taken by Michael Wolf at the same location (44.4283, -84.65
 
 ### Photo 1 (IMG_7473): The Outlet
 
-![Gully on the access two-track, looking toward The Cut](images/email/IMG_7473.jpeg)
+![Gully on the access two-track, looking toward The Cut](images/web_quality/IMG_7473.jpeg)
 
 Caption: Gully on the access two-track, looking toward The Cut. Bare sand carries runoff and sediment into the water, and a headcut has started at the two-track edge. All the water arrives here, so this is where the plan concentrates its work: a broad hardened dip across the tread, a hard sill at the lip of the headcut, and low steps below. A grassy sand island splits the flow into two paths. Tire tracks cross the damage, showing the route drivers take.
 
 ### Photo 2 (IMG_7474): The Uphill Edge of the Two-Track
 
-![Uphill edge of the two-track, rising toward the campsites](images/email/IMG_7474.jpeg)
+![Uphill edge of the two-track, rising toward the campsites](images/web_quality/IMG_7474.jpeg)
 
 Caption: The uphill edge of the access two-track, rising from the damage toward the campsites. Rutted sand and leaf litter show the tread that drains to the gully, and I checked that there is no other place for this water to go. The ruts and bare sand also show the line drivers take around the damage. The plan keeps traffic on a hardened, drivable route through the dip so there is no reason to detour, and it blocks the detour.
 
 ### Photo 3 (IMG_7475): The Downhill Edge of the Two-Track
 
-![Downhill edge of the two-track, looking back up toward the campsites](images/email/IMG_7475.jpeg)
+![Downhill edge of the two-track, looking back up toward the campsites](images/web_quality/IMG_7475.jpeg)
 
 Caption: The downhill edge of the access two-track, between the damage and The Cut, looking back up toward the campsites. Exposed sand and roots on the cut bank at the left edge show the erosion moving into the two-track shoulder. This kind of bank would be laid back to about 2:1, covered with brush, and staked. The branch debris along the edge is preliminary dam material for the brush check dams, and would need a filter layer, since sand will not seal itself the way silt does.
 
 ### Photo 4 (IMG_7476): The Headcut
 
-![Closer view of the headcut at the two-track edge](images/email/IMG_7476.jpeg)
+![Closer view of the headcut at the two-track edge](images/web_quality/IMG_7476.jpeg)
 
 Caption: Closer view of the headcut at the two-track edge. Sand has dropped from the tread, and water splits around a grassy sand mound before reaching the stream. This is the most likely place for a hard sill (log or stone) at the lip, to keep the headcut from retreating toward the tread. Below it, the flow would step down in several small drops rather than one big one.
 
 ### Photo 5 (IMG_7478): The Source
 
-![Sandy two-track surface with runoff channel from the campsite](images/email/IMG_7478.jpeg)
+![Sandy two-track surface with runoff channel from the campsite](images/web_quality/IMG_7478.jpeg)
 
 Caption: Sandy two-track surface with a runoff channel from the campsite. Dark, damp sand and a shallow depression show the flow path toward the tread. This is a source that cannot be diverted, so the plan fills or spreads downhill ruts like this one and avoids adding ditches or turnouts that would collect more water and deliver it to the same spot.

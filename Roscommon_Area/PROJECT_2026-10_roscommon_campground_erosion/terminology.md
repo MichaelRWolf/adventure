@@ -40,6 +40,13 @@ Rules:
 | Water arriving evenly | sheet flow, "arrives as a sheet" | spreading, dispersing                       |
 | Soil                  | clean sand                       | dirt, mud, silk (dictation for silt)        |
 
+## Framing
+
+Jason's work is improvement and maintenance, not answering complaints. Frame the site as a work item.
+
+- Use: erosion site, work site, work item, location, opportunity to fix early.
+- Avoid: problem, complaint, issue, disaster, failure (except "failure modes" as a design term).
+
 ## Structures
 
 | Concept                 | Use                                 | Avoid                                      |
@@ -69,12 +76,27 @@ Use these names. They are hazards, not features.
 |-------------------|-------------------------------------------------|--------------------------------------|
 | Jason's title     | Forest Manager                                  | Unit Manager, the boss               |
 | Jason's team      | Jason, your crew                                | the guys, staff (in proposal)        |
-| Me                | volunteer, co-author                            | expert; "amateur" only once, lightly |
+| Me                | co-author, volunteer (ideas only)               | expert; "amateur" only once, lightly |
 | The AI            | Claude (an AI assistant), co-author             | the bot, the AI (unqualified)        |
 | Land ownership    | "coordinate with the appropriate organizations" | asking Jason who owns it             |
 | My working plan   | project plan (`project.md`)                     | "the proposal"                       |
 | What Jason gets   | in-field proposal                               | "the letter" (`dnr_letter.txt`)      |
 | Unverified claims | "a guess for your crew to confirm"              | stating them as fact                 |
+
+## Photos
+
+Orientation comes from pixel dimensions (wider than tall is landscape), never from memory. `make info` prints this table from the files. `images/descriptions.md` was already sent and calls IMG_7478 "portrait"; it is landscape.
+
+| File              | Pixels (web quality) | Orientation |
+|-------------------|----------------------|-------------|
+| IMG_7473.jpeg     | 1200 x 900           | landscape   |
+| IMG_7474.jpeg     | 900 x 1200           | portrait    |
+| IMG_7475.jpeg     | 900 x 1200           | portrait    |
+| IMG_7476.jpeg     | 1200 x 900           | landscape   |
+| IMG_7478.jpeg     | 1200 x 900           | landscape   |
+| location_map.jpeg | 996 x 938            | landscape   |
+
+Folders: `images/` holds originals, `images/web_quality/` holds the 1200 px, JPEG 70 copies made by `make images`.
 
 ## Signs
 
